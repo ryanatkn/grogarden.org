@@ -11,7 +11,9 @@
 			<a href="https://gro.ryanatkn.com/"><Svg data={gro_logo} size="var(--icon_size_xl)" /></a>
 			<h1 class="mt_xl2">gro garden</h1>
 		</header>
-		<blockquote>genslop web garden for gro 🏞 work in progress</blockquote>
+		<blockquote>
+			genslop web garden for <a href="https://github.com/ryanatkn/gro">Gro</a> 🏞 work in progress
+		</blockquote>
 		<Card href="{base}/about" icon={''}>about</Card>
 	</section>
 </main>
