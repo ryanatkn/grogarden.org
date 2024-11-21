@@ -133,14 +133,6 @@ a.chip {
 .pt_xl {
 	padding-top: var(--space_xl);
 }
-.px_xl {
-	padding-left: var(--space_xl);
-	padding-right: var(--space_xl);
-}
-.py_md {
-	padding-top: var(--space_md);
-	padding-bottom: var(--space_md);
-}
 
 /* can be used to override the direction of a `.box` */
 .row {
@@ -178,9 +170,6 @@ a.chip {
 .shadow_inset_xs {
 	box-shadow: var(--shadow_inset_xs)
 		color-mix(in hsl, var(--shadow_color) var(--shadow_alpha, var(--shadow_alpha_1)), transparent);
-}
-.size_xl5 {
-	font-size: var(--size_xl5);
 }
 .w_100 {
 	width: 100%;

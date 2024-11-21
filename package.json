@@ -1,13 +1,13 @@
 {
-  "name": "@ryanatkn/fuz_template",
+  "name": "grogarden.org",
   "version": "0.0.1",
   "description": "a static web app and Node library template with TypeScript, Svelte, SvelteKit, Vite, esbuild, Fuz, and Gro",
-  "glyph": "❄",
+  "glyph": "🏞",
   "logo": "logo.svg",
   "logo_alt": "a friendly pixelated spider facing you",
   "public": true,
-  "homepage": "https://template.fuz.dev/",
-  "repository": "https://github.com/ryanatkn/fuz_template",
+  "homepage": "https://www.grogarden.org/",
+  "repository": "https://github.com/ryanatkn/grogarden.org",
   "scripts": {
     "start": "gro dev",
     "dev": "gro dev",

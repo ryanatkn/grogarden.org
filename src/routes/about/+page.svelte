@@ -18,7 +18,7 @@
 	<section class="box">
 		<header class="box pt_xl">
 			<Svg data={fuz_logo} size="var(--icon_size_xl)" />
-			<h1 class="mt_xl2">fuz_template</h1>
+			<h1 class="mt_xl2">grogarden.org</h1>
 		</header>
 		<div style:--size="var(--size_xl)">
 			<Breadcrumb>{package_json.glyph}</Breadcrumb>
