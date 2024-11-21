@@ -6,7 +6,7 @@ import type {Src_Json} from '@ryanatkn/gro/src_json.js';
 export const package_json = {
 	name: 'grogarden.org',
 	version: '0.0.1',
-	description: 'genslop web garden',
+	description: 'genslop web garden for gro',
 	glyph: '🏞',
 	logo: 'logo.svg',
 	logo_alt: 'a friendly pixelated spider facing you',
